@@ -1,2 +1,2 @@
 # veg
-silliness with ncursesw
+Silliness with ncursesw
