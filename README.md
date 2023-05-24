@@ -2,7 +2,7 @@
 Silliness with ncursesw.
 
 A bejewelish veggie thing.
-
+```
 \|/
 ┌┴┐
 \_/
@@ -14,5 +14,5 @@ A bejewelish veggie thing.
  ¥
 ███
 ▀▀▀
-
+```
 Controls: wasd(move) + q(quit) + <Space>(select)
